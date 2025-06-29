@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "exports": {
+    "./admin-screen": "./src/admin-screen.tsx",
     "./*": "./src/*.tsx"
   },
   "scripts": {
